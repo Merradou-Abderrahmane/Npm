@@ -1,0 +1,14 @@
+$universal-color : red;
+$secondary-color : green;
+$font : arial;
+
+
+h1 {
+    color : $secondary-color
+}
+
+.container {
+    h2 {
+        color: $universal-color;
+    }
+}
